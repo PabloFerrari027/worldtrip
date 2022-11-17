@@ -22,7 +22,7 @@ const Header: React.FC = () => {
       >
         <ReturnButton />
 
-        <Image src="/logo.svg" alt="Worldtrip" h={['2.2em', '2.2em', '3em']} />
+        <Image src="./logo.svg" alt="Worldtrip" h={['2.2em', '2.2em', '3em']} />
       </Flex>
     </Flex>
   )

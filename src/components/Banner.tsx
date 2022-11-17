@@ -6,7 +6,7 @@ const Banner: React.FC = () => {
     <Flex
       w="100%"
       h={['15em', '15em', '20em']}
-      bgImage={'/background.svg'}
+      bgImage={'./background.svg'}
       bgPosition="center"
       bgRepeat="no-repeat"
       bgSize="cover"
